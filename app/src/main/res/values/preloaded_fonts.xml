@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/dancing_script</item>
+        <item>@font/dawning_of_a_new_day</item>
+        <item>@font/grand_hotel</item>
+    </array>
+</resources>

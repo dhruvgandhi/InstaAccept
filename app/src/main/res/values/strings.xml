@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstaAccept</string>
+    <string name="balance">0</string>
+    <string name="email"></string>
+    <string name="password"></string>
+    <string name="AD_APP_ID">ca-app-pub-8826047101130248~9444704437</string>
+    <string name="AD_UNIT_ID">ca-app-pub-8826047101130248/1346722563</string>
+</resources>

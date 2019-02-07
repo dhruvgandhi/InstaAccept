@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864863799219",
+    "firebase_url": "https://insta-accept.firebaseio.com",
+    "project_id": "insta-accept",
+    "storage_bucket": "insta-accept.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864863799219:android:05b55b8a3cc1f97a",
+        "android_client_info": {
+          "package_name": "com.wordpress.fruitything.instaaccept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864863799219-q2gp2nij7h399vqag07vehn8jovb2leh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpceel9_Vk_r39qQcKSFiRv0FuXFGsFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
